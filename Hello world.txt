@@ -1,4 +1,4 @@
-print ("Hello world")
-print ("Hello everybody")
-print ("tu")
-print ("kkk")
+print ("Hello world;")
+print ("Hello everybody;")
+print ("tu;")
+print ("kkk;")
